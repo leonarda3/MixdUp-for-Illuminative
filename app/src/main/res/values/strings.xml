@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MixdUp</string>
+    <string name="search_placeholder">Search Drink</string>
+</resources>
